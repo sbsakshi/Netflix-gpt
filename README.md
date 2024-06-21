@@ -1,16 +1,57 @@
-[#Netflix GPT
+#Netflix GPT
 -create React app
 -configured tailwind
 -Header 
-login form
-
-
+-routing of app
+-login form
+-sign up form
+-form validation 
+-useRef hook
+-firebase setup
+-deploying our app to production
+-creating signup user account
+-implement sign in user api
+-created redux store with user slice
+-implemented sign out
+-update profile 
+-fetch from tmdb
+-bugFix:sign up user displayName 
+-bugFix:if user is not logged in redirect to login page &vice-versa.
+-unsubscribed to onauthstatechange callback
+-register TMDB API & create an app & get acess token 
+-get Data from now playing movies list api
+-get Data from TMDB now playing movie list api
+-planning for main &secondary container
+-create movieSlice
+-update Store with movieslice
+-fetch data for trailer video
+-embedded youtube video
+-added css to main container
+-display image 
+-build movie list 
+-build movie cards 
+-added TMDB CDN url
+-to:remove any hardcoded strings
+-making custom hooks
+-GPT search page
+-gpt search bar
+-(FEATURE) multilingual feature 
+-GPT API's(get open ai key)
+-use TMDB's API for filtering data
+-give search results
+-to fix:video isnt playing,make it autoplay n mute 
+-to fix: env file
+-to fix:trending movies
+-to fix:autoplay after 10 sec
+-remove firebase
 
 #Features
 -login/sign in
     -sign in /sign up form 
     -redirect to browse page
     -sign up
+    -form validation 
+    -useref()
 -browser(after configuring)
     -Header
     -Main Movie
@@ -21,4 +62,3 @@ login form
 -netflixgpt
     -searchbar
     -movie suggestions
-](https://github.com/sbsakshi/cloud_homepage)
