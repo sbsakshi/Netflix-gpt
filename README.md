@@ -1,4 +1,4 @@
-#Netflix GPT
+[#Netflix GPT
 -create React app
 -configured tailwind
 -Header 
@@ -21,3 +21,4 @@ login form
 -netflixgpt
     -searchbar
     -movie suggestions
+](https://github.com/sbsakshi/cloud_homepage)
