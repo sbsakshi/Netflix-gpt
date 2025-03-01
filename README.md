@@ -1,5 +1,5 @@
 Netflix Clone with Firebase Authentication and AI Movie Search
-live link:https://netflixgpt-26460.web.app
+
 This project is a clone of Netflix, featuring authentication using Firebase and an AI-powered movie search functionality.
 
 
